@@ -1,0 +1,20 @@
+{
+  "name": "wenmai-the-vein",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "纹脉·百工录，原生多页面数字非遗档案馆",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/verify.mjs",
+    "package": "node scripts/package.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.0",
+    "playwright": "1.51.1",
+    "sharp": "0.33.5",
+    "three": "0.170.0"
+  }
+}

@@ -1,0 +1,8 @@
+# 忽略本地依赖与临时浏览器数据。
+node_modules/
+.browser-profile/
+.tooling/
+# 不提交生成的压缩包与批量浏览器截图。
+delivery/
+reports/*.png
+!reports/首页预览.png

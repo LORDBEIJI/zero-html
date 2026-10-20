@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-20",
+  "browser": "155.0.8059.84",
+  "layouts": [
+    {
+      "width": 1920,
+      "route": "index.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "gallery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "stories.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "about.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "craft/embroidery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "craft/carving.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "craft/celadon.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1920,
+      "route": "craft/cloisonne.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "index.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "gallery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "stories.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "about.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "craft/embroidery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "craft/carving.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "craft/celadon.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 1440,
+      "route": "craft/cloisonne.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "index.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "gallery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "stories.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "about.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "craft/embroidery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "craft/carving.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "craft/celadon.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 720,
+      "route": "craft/cloisonne.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "index.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "gallery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "stories.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "about.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "craft/embroidery.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "craft/carving.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "craft/celadon.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    },
+    {
+      "width": 375,
+      "route": "craft/cloisonne.html",
+      "fit": true,
+      "images": true,
+      "h1": 1,
+      "overflow": []
+    }
+  ],
+  "checks": [
+    "命令面板：快捷键、搜索、无结果、Esc 与跳转",
+    "收藏与阅读进度：刷新保持并可移除",
+    "主题切换：宣纸主题刷新保持",
+    "匠人故事：筛选、抽屉、出处与 Esc",
+    "绣线：按钮、针法、真实拖动和重来",
+    "走刀：按钮、针法、真实拖动和重来",
+    "窑变：窑温与釉色同步，重置到 1200℃",
+    "掐丝：曲线拖动、完整点蓝与重来",
+    "三维展馆：器形、釉色、线框、键盘旋转和上下文丢失",
+    "移动端：不加载三维库，卡片切换和翻面",
+    "WebGL 不可用：桌面二维降级",
+    "慢网：跳过字体与三维库，首屏仍可读可跳转",
+    "减少动态效果：无自动旋转，仍可交互",
+    "全部布局截图与正常首屏体积"
+  ],
+  "errors": [],
+  "missingResources": [],
+  "metrics": {
+    "slowFirstReadableMs": 3071,
+    "slowInitialResourceBytes": 122695,
+    "normalInitialResourceBytes": 387501
+  },
+  "limitations": [
+    "使用当前安装的 Chrome 自动验收，未使用真实 Chrome 129。",
+    "软件 WebGL 环境不代表参赛设备集显帧率；45/60fps 目标需在目标设备复核。"
+  ],
+  "passed": true
+}

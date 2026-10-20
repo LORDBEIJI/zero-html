@@ -1,0 +1,5 @@
+// 原始字体公开下载，页面文字仅在本地裁剪，不发送给外部服务。
+import fs from 'node:fs/promises';
+await fs.mkdir('.tooling/fonts',{recursive:true});const source='.tooling/fonts/NotoSerifSC.ttf';try{await fs.access(source);}catch{const response=await fetch('https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/NotoSerifSC%5Bwght%5D.ttf');if(!response.ok)throw new Error('公开字体下载失败');await fs.writeFile(source,Buffer.from(await response.arrayBuffer()));}
+try{await fs.access('assets/fonts/OFL.txt');}catch{const license=await fetch('https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifsc/OFL.txt');if(!license.ok)throw new Error('字体许可下载失败');await fs.writeFile('assets/fonts/OFL.txt',await license.text());}
+const {spawnSync}=await import('node:child_process');const {resolve}=await import('node:path');const result=spawnSync(process.env.WENMAI_PYTHON||'python',['scripts/subset-fonts.py'],{stdio:'inherit',env:{...process.env,PYTHONPATH:resolve('.tooling/python')}});if(result.status!==0)throw new Error('本地字体裁剪失败');
